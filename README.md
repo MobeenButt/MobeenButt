@@ -43,23 +43,23 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="PATH_TO_C#_LOGO" alt="csharp" width="40" height="40">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40">
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="PATH_TO_PYTHON_LOGO" alt="python" width="40" height="40">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="PATH_TO_HTML_LOGO" alt="html" width="40" height="40">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40">
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="PATH_TO_CSS_LOGO" alt="css" width="40" height="40">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40">
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="PATH_TO_BOOTSTRAP_LOGO" alt="bootstrap" width="40" height="40">
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40">
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="PATH_TO_MYSQL_LOGO" alt="mysql" width="40" height="40">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40">
   </a>
   <!-- Add other language icons here -->
 </div>

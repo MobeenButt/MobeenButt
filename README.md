@@ -3,8 +3,65 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="index.css">
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
 
- <a href="index.css"></a>
+    h1 {
+      text-align: center;
+      margin-top: 30px;
+    }
+
+    p {
+      text-align: center;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      margin-top: 20px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+
+    a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    h3 {
+      margin-top: 20px;
+    }
+
+    .languages {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+
+    .languages img {
+      margin: 0 10px;
+    }
+  </style>
 </head>
 <body>
 
@@ -32,6 +89,12 @@
   <li>👯 I’m looking to collaborate on <strong>C++</strong></li>
   <li>📫 How to reach me: <a href="mailto:mobeen914butt@gmail.com">mobeen914butt@gmail.com</a></li>
 </ul>
+
+<h3>Connect with me:</h3>
+<p>
+  <!-- Add your social media links or any other contact information here -->
+</p>
+
 <h3>Languages and Tools:</h3>
 <div class="languages">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -59,4 +122,4 @@
 </div>
 
 </body>
-</html> 
+</html>

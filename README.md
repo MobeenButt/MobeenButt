@@ -32,16 +32,28 @@
   <li>👯 I’m looking to collaborate on <strong>C++</strong></li>
   <li>📫 How to reach me: <a href="mailto:mobeen914butt@gmail.com">mobeen914butt@gmail.com</a></li>
 </ul>
-
-<h3>Connect with me:</h3>
-<p>
-  <!-- Add your social media links or any other contact information here -->
-</p>
-
 <h3>Languages and Tools:</h3>
 <div class="languages">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="PATH_TO_C#_LOGO" alt="csharp" width="40" height="40">
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="PATH_TO_PYTHON_LOGO" alt="python" width="40" height="40">
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="PATH_TO_HTML_LOGO" alt="html" width="40" height="40">
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="PATH_TO_CSS_LOGO" alt="css" width="40" height="40">
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="PATH_TO_BOOTSTRAP_LOGO" alt="bootstrap" width="40" height="40">
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="PATH_TO_MYSQL_LOGO" alt="mysql" width="40" height="40">
   </a>
   <!-- Add other language icons here -->
 </div>

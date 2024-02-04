@@ -9,7 +9,6 @@
 <body>
 
 <h1>Hi 👋, I'm Mobeen Butt</h1>
-
 <p>
   <a href="https://github.com/MobeenButt">
     <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="GitHub Profile Animation">

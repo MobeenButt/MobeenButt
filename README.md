@@ -62,6 +62,5 @@
   </a>
   <!-- Add other language icons here -->
 </div>
-
 </body>
 </html>

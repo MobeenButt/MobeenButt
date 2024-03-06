@@ -105,6 +105,6 @@
   </a>
   <!-- Add other language icons here -->
 </div>
-![Snake animation](https://github.com/{{MobeenButt}}/{{MobeenButt}}/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/{{MobeenButt}}/{{MobeenButt}}/blob/output/github-contribution-grid-snake.svg) -->
 </body>
 </html>

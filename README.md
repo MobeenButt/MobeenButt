@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Moben Butt and I'm a CS Student a UET </h2>
+<h2 align="left">Hi 👋! My name is Moben Butt </h2>
 
 ###
 

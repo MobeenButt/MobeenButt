@@ -11,8 +11,7 @@
 <h1>Hi 👋, I'm Mobeen Butt</h1>
 <p>
   <a href="https://github.com/MobeenButt">
-    <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Boy working on computer">
-  </a>
+ <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 512px; height: 317px; margin: 54px 0px; width: 422px;" alt="GitHub - Anmol-Baranwal/Cool-GIFs-For-GitHub: 🤝 Awesome ..." jsname="kn3ccd"></a>
 </p>
 
 <p>

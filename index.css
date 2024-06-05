@@ -1,57 +1,105 @@
- 
-    body {  
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f4f4f4;
-      color: #333;
-      margin: 0;
-      padding: 0;
-    }
+/* Basic styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
 
-    h1 {
-      text-align: center;
-      margin-top: 30px;
-    }
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 2.5em;
+}
 
-    p {
-      text-align: center;
-    }
+p, ul, h3 {
+  text-align: center;
+  margin: 20px;
+}
 
-    img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 8px;
-      margin-top: 20px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
+a {
+  color: inherit;
+  text-decoration: none;
+}
 
-    ul {
-      list-style: none;
-      padding: 0;
-    }
+/* Animation for the heading */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
 
-    li {
-      margin-bottom: 10px;
-    }
+h1 {
+  animation: fadeIn 1.5s ease-in-out;
+}
 
-    a {
-      color: #0366d6;
-      text-decoration: none;
-    }
+/* Animation for icons */
+@keyframes bounce {
+  from { transform: translateY(0); }
+  to { transform: translateY(-10px); }
+}
 
-    a:hover {
-      text-decoration: underline;
-    }
+.languages img, .social-icons img {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+  transition: transform 0.3s ease;
+}
 
-    h3 {
-      margin-top: 20px;
-    }
+.languages img:hover, .social-icons img:hover {
+  animation: bounce 0.3s alternate infinite;
+}
 
-    .languages {
-      display: flex;
-      justify-content: center;
-      margin-top: 20px;
-    }
+/* Hover effect for buttons */
+button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 1em;
+  color: #fff;
+  background-color: #007BFF;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
 
-    .languages img {
-      margin: 0 10px;
-    }
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Flexbox container for languages and tools */
+.languages {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+/* Social icons container */
+.social-icons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+/* Contributions graph */
+.contributions {
+  text-align: center;
+  margin: 20px;
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 2em;
+  }
+  .languages img, .social-icons img {
+    width: 30px;
+    height: 30px;
+  }
+  button {
+    font-size: 0.9em;
+  }
+}

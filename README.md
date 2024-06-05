@@ -4,14 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="index.css">
-
+ 
 </head>
 <body>
 
 <h1>Hi 👋, I'm Mobeen Butt</h1>
 <p>
   <a href="https://github.com/MobeenButt">
-    <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="GitHub Profile Animation">
+    <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Boy working on computer">
   </a>
 </p>
 

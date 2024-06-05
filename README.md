@@ -88,5 +88,12 @@
   <img width="12" />
 </div>
 
+<h3>GitHub Contributions</h3>
+<p>
+  <a href="https://github.com/MobeenButt">
+    <img src="https://github.com/MobeenButt/MobeenButt/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contributions">
+  </a>
+</p>
+
 </body>
 </html>

@@ -27,7 +27,7 @@
 <h3>A passionate developer</h3>
 
 <ul>
-  <li>🌱 I’m currently learning <strong>C++, Python, C#, HTML, CSS, Bootstrap, MySQL</strong></li>
+  <li>🌱 I’m currently learning <strong>C++, Python, C#, HTML, CSS, Bootstrap, MySQL,Javascript </strong></li>
   <li>👯 I’m looking to collaborate on <strong>C++</strong></li>
   <li>📫 How to reach me: <a href="mailto:mobeen914butt@gmail.com">mobeen914butt@gmail.com</a></li>
 </ul>

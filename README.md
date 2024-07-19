@@ -19,13 +19,13 @@
   <a href="https://github.com/MobeenButt">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobeenButt&layout=compact&theme=vision-friendly-dark">
   </a>
-  <a href="https://github.com/MobeenButt">
+<!--   <a href="https://github.com/MobeenButt">
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MobeenButt&theme=dark&hide_border=true"/>
   </a>
 </p>
-<!-- https://github-readme-streak-stats.herokuapp.com/?user=MobeenButt
+<!-- https://github-readme-streak-stats.herokuapp.com/?user=MobeenButt -->
  -->
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MobeenButt&theme=javascript-dark&hide_border=true&border_radius=5.1&mode=weekly&card_width=494" alt="GitHub Streak" /></a>
 
 
 

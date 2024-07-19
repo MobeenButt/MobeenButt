@@ -25,7 +25,10 @@
 </p>
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=MobeenButt -->
  -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MobeenButt&theme=javascript-dark&hide_border=true&border_radius=5.1&mode=weekly&card_width=494" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MobeenButt&theme=javascript-dark&hide_border=true&border_radius=5.1&mode=weekly&card_width=494" alt="GitHub Streak" /></a> -->
+<a href="https://github.com/MobeenButt">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mobeen%20Butt&theme=javascript-dark&hide_border=true&border_radius=5.1&mode=weekly&card_width=494" alt="GitHub Streak" />
+</a>
 
 
 

@@ -23,8 +23,8 @@
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MobeenButt&theme=dark&hide_border=true"/>
   </a>
 </p>
-https://github-readme-streak-stats.herokuapp.com/?user=MobeenButt
-
+<!-- https://github-readme-streak-stats.herokuapp.com/?user=MobeenButt
+ -->
 
 
 

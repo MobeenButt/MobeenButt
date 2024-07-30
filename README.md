@@ -87,14 +87,8 @@
   </div>
 
   <h3>Profile Views: <span id="profile-views">0</span></h3>
+<script src="script.js"></script>
 
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      let profileViews = localStorage.getItem('profileViews') || 0;
-      profileViews++;
-      localStorage.setItem('profileViews', profileViews);
-      document.getElementById('profile-views').textContent = profileViews;
-    });
-  </script>
+ 
 </body>
 </html>

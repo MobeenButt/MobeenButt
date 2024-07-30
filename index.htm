@@ -35,8 +35,43 @@
 
 <h3>Connect with me:</h3>
 <p>
-  <!-- Add your social media links or any other contact information here -->
+  <a href="https://www.youtube.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
+  </a>
+  <a href="https://www.instagram.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  </a>
+  <a href="https://www.twitch.tv" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo" />
+  </a>
+  <a href="https://discord.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
+  </a>
+  <a href="mailto:mobeen914butt@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
 </p>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const email = prompt('Please enter your email:');
+    if (email) {
+      fetch('http://localhost:3000/visit', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ email })
+      })
+      .then(response => response.text())
+      .then(data => console.log(data))
+      .catch(error => console.error('Error:', error));
+    }
+  });
+</script>
 
 <h3>Languages and Tools:</h3>
 <div class="languages">

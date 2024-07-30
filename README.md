@@ -87,7 +87,7 @@
   </div>
 
   <h3>Profile Views: <span id="profile-views">0</span></h3>
-<script src="script.js"></script>
+
 
  
 </body>

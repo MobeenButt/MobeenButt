@@ -22,14 +22,14 @@ function sendEmailNotification(email) {
   let transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-      user: 'your-email@gmail.com',
-      pass: 'your-email-password'
+      user: 'mobeen914butt@gmail.com',
+      pass: 'mobeen914butt@gmail.com'
     }
   });
 
   let mailOptions = {
-    from: 'your-email@gmail.com',
-    to: 'your-email@gmail.com',
+    from: 'mobeen914butt@gmail.com',
+    to: 'mobeen914butt@gmail.com',
     subject: 'New Profile Visitor',
     text: `A new visitor has checked your profile: ${email}`
   };

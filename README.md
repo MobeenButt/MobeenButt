@@ -6,28 +6,47 @@
   <link rel="stylesheet" href="index.css">
   <title>Profile Page</title>
   <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
     img {
       max-width: 100%;
       height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+    .stats {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+    }
+    .languages {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
     }
   </style>
 </head>
 <body>
   <h1>Hi 👋, I'm Mobeen Butt</h1>
+
   <p>
-    <a href="https://github.com/MobeenButt">
-      <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Boy working on computer">
+    <a href="https://github.com/MobeenButt" target="_blank" rel="noopener noreferrer">
+      <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Boy working on computer" loading="lazy">
     </a>
   </p>
-  
-  <p>
-    <a href="https://github.com/MobeenButt">
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobeenButt&layout=compact&theme=vision-friendly-dark">
+
+  <div class="stats">
+    <a href="https://github.com/MobeenButt" target="_blank" rel="noopener noreferrer">
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobeenButt&layout=compact&theme=vision-friendly-dark" loading="lazy">
     </a>
-    <a href="https://github.com/MobeenButt">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MobeenButt&theme=javascript-dark&hide_border=true" alt="GitHub Streak" />
+    <a href="https://github.com/MobeenButt" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MobeenButt&theme=javascript-dark&hide_border=true" alt="GitHub Streak" loading="lazy">
     </a>
-  </p>
+  </div>
 
   <h3>A passionate developer</h3>
   <ul>
@@ -39,19 +58,19 @@
   <h3>Connect with me:</h3>
   <p>
     <a href="https://www.youtube.com/@mobeenbutt914" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube logo" />
+      <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube logo">
     </a>
     <a href="https://www.instagram.com/bgclothings07" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram logo" />
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram logo">
     </a>
     <a href="https://www.facebook.com/profile.php?id=61569884369937" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="Facebook logo" />
+      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="Facebook logo">
     </a>
     <a href="mailto:mobeen914butt@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail logo" />
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail logo">
     </a>
     <a href="https://www.linkedin.com/in/mobeen-butt-60930b2b8/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo">
     </a>
   </p>
 
@@ -81,11 +100,9 @@
   </div>
 
   <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo">
   </div>
 </body>
 </html>

@@ -4,33 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="index.css">
-  <title>Profile Page</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin: 0 auto;
-    }
-    .stats {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-    }
-    .languages {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-    }
-  </style>
-</head>
-<body>
+  <title>Profile Page</title
   <h1>Hi 👋, I'm Mobeen Butt</h1>
 
   <p>
@@ -69,7 +43,7 @@
     <a href="mailto:mobeen914butt@gmail.com">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail logo">
     </a>
-    <a href="https://www.linkedin.com/in/mobeen-butt-60930b2b8/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/mobeen-butt-60930b2b8/" target="_blank" rel="https://www.linkedin.com/in/mobeen-butt-60930b2b8/">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo">
     </a>
   </p>

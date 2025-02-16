@@ -32,22 +32,20 @@
 
   <h3>Connect with me:</h3>
   <p>
-    <a href="https://www.youtube.com" target="_blank" rel="noreferrer">
+    <a href="https://www.youtube.com" target="_blank" rel="https://www.youtube.com/@mobeenbutt914">
       <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
     </a>
-    <a href="https://www.instagram.com" target="_blank" rel="noreferrer">
+    <a href="https://www.instagram.com" target="_blank" rel="https://www.instagram.com/bgclothings07?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
     </a>
-    <a href="https://www.twitch.tv" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo" />
+    <a href="https://www.facebook.com" target="_blank" rel="https://www.facebook.com/profile.php?id=61569884369937">
+      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo" />
     </a>
-    <a href="https://discord.com" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
-    </a>
+    
     <a href="mailto:mobeen914butt@gmail.com">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
     </a>
-    <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com" target="_blank" rel="https://www.linkedin.com/in/mobeen-butt-60930b2b8/">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
     </a>
   </p>

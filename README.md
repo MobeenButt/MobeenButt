@@ -4,13 +4,31 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
+  <style>
+    /* Ensure GIF is responsive */
+    .gif-container {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+    .gif-container img {
+      width: 100%;
+      max-height: 500px; /* Limits excessive height */
+      object-fit: cover; /* Keeps the image nicely scaled */
+    }
+  </style>
 </head>
 <body>
   <h1>Hi 👋, I'm <span style="color:#58a6ff">Mobeen Butt</span></h1>
 
-  <p>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Dark Coding GIF" loading="lazy" width="60%">
-  </p>
+  <div class="gif-container">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Dark Coding GIF" loading="lazy">
+  </div>
+
+  <div class="stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MobeenButt&show_icons=true&theme=tokyonight" alt="Mobeen's GitHub Stats" loading="lazy">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MobeenButt&theme=tokyonight&hide_border=true" alt="Mobeen's GitHub Streak" loading="lazy">
+  </div>
 
   <h3>A passionate developer</h3>
   <ul>

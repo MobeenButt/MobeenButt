@@ -4,18 +4,18 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
+  <title>Mobeen Butt - Portfolio</title>
 </head>
 <body>
   <h1>Hi 👋, I'm <span style="color:#58a6ff">Mobeen Butt</span></h1>
 
- <p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Black Coding GIF" loading="lazy" width="60%">
-</p>
-
+  <p>
+    <img src="https://media.giphy.com/media/3o6ZsYzGafnD1T8xFS/giphy.gif" alt="Dark Coding GIF" loading="lazy" width="60%">
+  </p>
 
   <div class="stats">
     <img src="https://github-readme-stats.vercel.app/api?username=MobeenButt&show_icons=true&theme=tokyonight" alt="GitHub Stats" loading="lazy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MobeenButt&theme=tokyonight&hide_border=true" alt="GitHub Streak" loading="lazy">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MobeenButt&theme=tokyonight&hide_border=true" alt="GitHub Streak" loading="lazy">
   </div>
 
   <h3>A passionate developer</h3>
@@ -40,13 +40,13 @@
 
   <h3>Languages & Tools:</h3>
   <div class="languages">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React">
   </div>
 </body>
 </html>

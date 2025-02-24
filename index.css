@@ -1,3 +1,17 @@
+
+    /* Ensure GIF is responsive */
+    .gif-container {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+    .gif-container img {
+      width: 100%;
+      max-height: 500px; /* Limits excessive height */
+      object-fit: cover; /* Keeps the image nicely scaled */
+    }
+ 
+
 /* Basic styles */
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

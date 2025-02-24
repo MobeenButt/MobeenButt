@@ -14,8 +14,8 @@
   </div>
 
   <div class="stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MobeenButt &show_icons=true&theme=tokyonight" alt="Mobeen's GitHub Stats" loading="lazy">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MobeenButt &theme=tokyonight&hide_border=true" alt="Mobeen's GitHub Streak" loading="lazy">
+    <img src="https://github-readme-stats.vercel.app/api?username=MobeenButt&show_icons=true&theme=tokyonight" alt="Mobeen's GitHub Stats" loading="lazy">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MobeenButt&theme=tokyonight&hide_border=true" alt="Mobeen's GitHub Streak" loading="lazy">
   </div>
 
   <h3>A passionate developer</h3>

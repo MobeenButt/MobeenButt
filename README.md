@@ -9,13 +9,8 @@
   <h1>Hi 👋, I'm <span style="color:#58a6ff">Mobeen Butt</span></h1>
 
   <p>
-    <img src="https://media.giphy.com/media/3o6ZsYzGafnD1T8xFS/giphy.gif" alt="Dark Coding GIF" loading="lazy" width="60%">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Dark Coding GIF" loading="lazy" width="60%">
   </p>
-
-  <div class="stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MobeenButt&show_icons=true&theme=tokyonight" alt="GitHub Stats" loading="lazy">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MobeenButt&theme=tokyonight&hide_border=true" alt="GitHub Streak" loading="lazy">
-  </div>
 
   <h3>A passionate developer</h3>
   <ul>

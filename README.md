@@ -19,8 +19,8 @@
 
   <h3>A passionate developer</h3>
   <ul>
-    <li>🌱 Currently mastering: <strong>C++, C#, Python, Web Dev</strong></li>
-    <li>👯 Open to collaborations in <strong>C++ & C#</strong></li>
+    <li>🌱 Currently mastering: <strong>C++, C#, Python, JS, Web Dev</strong></li>
+    <li>👯 Open to collaborations in <strong>JS, C++ & C#</strong></li>
     <li>📫 Reach me: <a href="mailto:mobeen914butt@gmail.com">mobeen914butt@gmail.com</a></li>
   </ul>
 

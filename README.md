@@ -14,9 +14,7 @@
   </div>
 
   <div class="stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MobeenButt&show_icons=true&theme=tokyonight" alt="Mobeen's GitHub Stats" loading="lazy">
-    </div>
-
+ 
   <h3>A passionate developer</h3>
   <ul>
     <li>🌱 Currently mastering: <strong>C++, C#, Python, JS, Web Dev</strong></li>
